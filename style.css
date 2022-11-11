@@ -1,0 +1,356 @@
+body {
+  margin: 0;
+  padding: 50px;
+}
+
+.grid-part {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-template-rows: auto auto;
+  gap: 20px;
+  row-gap: 60px;
+}
+p {
+  text-align: center;
+}
+.collor {
+  margin: 0;
+  padding: 0;
+}
+
+.color {
+  height: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  color: rgba(0, 0, 0, 0.68);
+}
+
+.colora {
+  border: 1px solid rgba(0, 0, 0, 0.082);
+  height: 50px;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px;
+  font-size: 50px;
+}
+.color1 {
+  background: #fdf4f3;
+}
+.color2 {
+  background: #f9d5d1;
+}
+.color3 {
+  background: #f5b3ae;
+}
+.color4 {
+  background: #f18d87;
+}
+.color5 {
+  background: #ee635f;
+}
+
+.color6 {
+  background: #ed3837;
+}
+.color7 {
+  background: #da332e;
+}
+.color8 {
+  background: #b92a25;
+}
+.color9 {
+  background: #96201c;
+}
+.color10 {
+  background: #711515;
+}
+
+.collor1 {
+  background: #fdf5ed;
+}
+.collor2 {
+  background: #fbe0c9;
+}
+.collor3 {
+  background: #f8c7a5;
+}
+.collor4 {
+  background: #f5ad80;
+}
+.collor5 {
+  background: #f28e54;
+}
+
+.collor6 {
+  background: #ef6a37;
+}
+.collor7 {
+  background: #de4f31;
+}
+.collor8 {
+  background: #bd3427;
+}
+.collor9 {
+  background: #9b231e;
+}
+.collor10 {
+  background: #761714;
+}
+
+.colir1 {
+  background: #fef8eb;
+}
+.colir2 {
+  background: #fdebc6;
+}
+.colir3 {
+  background: #fbdca2;
+}
+.colir4 {
+  background: #f9cb7c;
+}
+.colir5 {
+  background: #f7b74e;
+}
+
+.colir6 {
+  background: #f49e3f;
+}
+.colir7 {
+  background: #de7f36;
+}
+.colir8 {
+  background: #bd622b;
+}
+.colir9 {
+  background: #9a4b21;
+}
+.colir10 {
+  background: #753316;
+}
+
+.calor1 {
+  background: #fffbeb;
+}
+.calor2 {
+  background: #fef3c4;
+}
+.calor3 {
+  background: #fffaa0;
+}
+.calor4 {
+  background: #fff479;
+}
+.calor5 {
+  background: #ffed4f;
+}
+
+.calor6 {
+  background: #fce04c;
+}
+.calor7 {
+  background: #ddbc40;
+}
+.calor8 {
+  background: #bc9b34;
+}
+.calor9 {
+  background: #9a7b28;
+}
+.calor10 {
+  background: #75591c;
+}
+
+.color11 {
+  background: #fdfdeb;
+}
+.color21 {
+  background: #f6fbc4;
+}
+.color31 {
+  background: #edf9a0;
+}
+.color41 {
+  background: #dbf174;
+}
+.color51 {
+  background: #c5e746;
+}
+
+.color61 {
+  background: #aedc40;
+}
+.color71 {
+  background: #8dbd34;
+}
+.color81 {
+  background: #6c9a28;
+}
+.color91 {
+  background: #4f781d;
+}
+.color101 {
+  background: #305010;
+}
+
+.colori1 {
+  background: #eafefc;
+}
+.colori2 {
+  background: #c0f6f0;
+}
+.colori3 {
+  background: #96ebe5;
+}
+.colori4 {
+  background: #6ae1db;
+}
+.colori5 {
+  background: #5dd7d4;
+}
+
+.colori6 {
+  background: #57cbce;
+}
+.colori7 {
+  background: #45a6ad;
+}
+.colori8 {
+  background: #337f88;
+}
+.colori9 {
+  background: #215a63;
+}
+.colori10 {
+  background: #0d2e36;
+}
+
+.color01 {
+  background: #ebf9fe;
+}
+.color02 {
+  background: #c5ebfc;
+}
+.color03 {
+  background: #a0ddfb;
+}
+.color04 {
+  background: #79ccf9;
+}
+.color05 {
+  background: #4db8f8;
+}
+
+.color06 {
+  background: #39a4f7;
+}
+.color07 {
+  background: #2784e1;
+}
+.color08 {
+  background: #1867c1;
+}
+.color09 {
+  background: #0c4e9e;
+}
+.color010 {
+  background: #043779;
+}
+
+.colorp1 {
+  background: #faf4fe;
+}
+.colorp2 {
+  background: #f3e3fd;
+}
+.colorp3 {
+  background: #dcbef9;
+}
+.colorp4 {
+  background: #c197ef;
+}
+.colorp5 {
+  background: #a470e5;
+}
+
+.colorp6 {
+  background: #864bda;
+}
+.colorp7 {
+  background: #6737ba;
+}
+.colorp8 {
+  background: #4b2a97;
+}
+.colorp9 {
+  background: #2e1d71;
+}
+.colorp10 {
+  background: #180f48;
+}
+
+.colorl1 {
+  background: #fdf3f8;
+}
+.colorl2 {
+  background: #fadeec;
+}
+.colorl3 {
+  background: #f5beda;
+}
+.colorl4 {
+  background: #f19aca;
+}
+.colorl5 {
+  background: #ee73b8;
+}
+
+.colorl6 {
+  background: #ec4ca7;
+}
+.colorl7 {
+  background: #d13d91;
+}
+.colorl8 {
+  background: #b0327b;
+}
+.colorl9 {
+  background: #8c2764;
+}
+.colorl10 {
+  background: #661a4a;
+}
+
+.colorz1 {
+  background: #cdd9e5;
+}
+.colorz2 {
+  background: #afbac5;
+}
+.colorz3 {
+  background: #909dab;
+}
+.colorz4 {
+  background: #768390;
+}
+.colorz5 {
+  background: #626e7b;
+}
+
+.colorz6 {
+  background: #545d68;
+}
+.colorz7 {
+  background: #434c56;
+}
+.colorz8 {
+  background: #373e47;
+}
+.colorz9 {
+  background: #2d333b;
+}
+.colorz10 {
+  background: #21262e;
+}
